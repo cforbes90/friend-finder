@@ -1,0 +1,100 @@
+friendsArray = [
+    {
+      "name":"Chandler Bing",
+      "photo":"/images/chandler.jpg",
+      "scores":[
+          4,
+          2,
+          3,
+          2,
+          5,
+          1,
+          2,
+          1,
+          5,
+          5,
+        ]
+    },
+    {
+      "name":"Joey Tribbiani",
+      "photo":"/images/joey.jpg",
+      "scores":[
+          5,
+          2,
+          4,
+          2,
+          5,
+          4,
+          3,
+          2,
+          4,
+          5,
+        ]
+    },
+    {
+      "name":"Dr. Ross Geller",
+      "photo":"/images/ross.png",
+      "scores":[
+          2,
+          5,
+          1,
+          5,
+          1,
+          4,
+          5,
+          5,
+          3,
+          1,
+        ]
+    },
+    {
+      "name":"Phoebe Buffay",
+      "photo":"/images/phoebe.jpg",
+      "scores":[
+          3,
+          4,
+          5,
+          4,
+          3,
+          5,
+          4,
+          4,
+          3,
+          4,
+        ]
+    },
+    {
+      "name":"Monica Geller",
+      "photo":"/images/monica.jpg",
+      "scores":[
+          4,
+          3,
+          4,
+          3,
+          4,
+          1,
+          3,
+          3,
+          5,
+          4,
+        ]
+    },
+    {
+      "name":"Rachel Green",
+      "photo":"/images/rachel.jpg",
+      "scores":[
+          5,
+          4,
+          5,
+          4,
+          2,
+          5,
+          4,
+          2,
+          1,
+          1,
+        ]
+    },
+  ]
+  
+  module.exports = friendsArray;
