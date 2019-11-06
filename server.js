@@ -1,5 +1,4 @@
-// Load dotenv
-require("dotenv").config();
+
 
 //Requires
 var express = require("express");

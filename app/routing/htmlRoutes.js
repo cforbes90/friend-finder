@@ -1,5 +1,5 @@
 var path = require("path");
-function htmlRoutes(app) {
+htmlRoutes = function (app) {
 
     app.get("/survey", function(req,res){
         res.sendFile(path.join(__dirname, "../public/survey.html"));
