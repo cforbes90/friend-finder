@@ -7,7 +7,7 @@ htmlRoutes = function (app) {
     });
     //wildcard for redirecting everything back to the home page
     app.get("*", function(req,res) {
-        res.sendFile(path.join(__dirname, "..public/home.html"));
+        res.sendFile(path.join(__dirname, "../public/home.html"));
     });
 };
 

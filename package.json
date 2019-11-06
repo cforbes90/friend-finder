@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/shrfu31/friend-finder/issues"
   },
-  "homepage": "https://github.com/shrfu31/friend-finder#readme"
+  "homepage": "https://github.com/shrfu31/friend-finder#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
